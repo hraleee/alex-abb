@@ -7,12 +7,12 @@ export const metadata: Metadata = {
 };
 
 const orari = [
-  { giorno: "Lunedì", ore: "09:00 - 21:00" },
-  { giorno: "Martedì", ore: "09:00 - 21:00" },
-  { giorno: "Mercoledì", ore: "09:00 - 21:00" },
-  { giorno: "Giovedì", ore: "09:00 - 21:00" },
-  { giorno: "Venerdì", ore: "09:00 - 21:00" },
-  { giorno: "Sabato", ore: "09:00 - 21:00" },
+  { giorno: "Lunedì", ore: "16:30 - 20:30" },
+  { giorno: "Martedì", ore: "10:00 - 13:00, 16:30 - 20:30" },
+  { giorno: "Mercoledì", ore: "10:00 - 13:00, 16:30 - 20:30" },
+  { giorno: "Giovedì", ore: "10:00 - 13:00, 16:30 - 20:30" },
+  { giorno: "Venerdì", ore: "10:00 - 13:00, 16:30 - 20:30" },
+  { giorno: "Sabato", ore: "10:00 - 13:00, 16:30 - 20:30" },
   { giorno: "Domenica", ore: "Chiuso" },
 ];
 
